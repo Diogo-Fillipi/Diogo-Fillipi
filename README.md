@@ -1,7 +1,9 @@
 # Seja bem-vindo ao meu perfil :) 
 
-Olá, o meu nome é Diogo, e a minha história com a tecnologia começou logo após eu terminar o ensino médio, participando de um evento da HashTag, onde construímos uma automação utilizando Python. A sensação de ver aquele script funcioando foi indescrítivel, e naquele momento decidi que gostaria de aprender mais sobre programação e que essa era a carreira que seguiria.<br><br>
-No mês seguinte, ingressei no curso de Ciência da Computação, e pude ter uma visão mais ampla, dessa vez, não só de programação, mas de tecnologia num geral e, agora, com um conhecimento mais técnico do assunto, eu acabei me interessando por Java e por Back-End, desde então, é o que eu venho me aprofundando.
+Olá, o meu nome é Diogo, e a minha história com a tecnologia começou logo após eu terminar o ensino médio, participando de um evento da HashTag, onde construímos uma automação utilizando Python. A sensação de ver aquele script funcionando foi indescritível, e foi naquele momento que decidi aprender mais sobre programação e que essa era a carreira que gostaria de seguir.<br><br>
+No mês seguinte, ingressei no curso de Ciência da Computação, com isso pude ter uma visão mais ampla, não só de programação, mas de tecnologia como um todo. Então acabei me apaixonando por tecnologia num geral, e hoje nem consigo me imaginar em outra área que não seja a tech.
+
+Embora eu seja apaixonado por tudo relacionado à tecnologia, eu acabei gostando muito do desenvolvimento Back-End, principalmente em Java, desde então venho me aprofundando no assunto.
 
 
 ## 🧑‍💻 Sobre Mim
@@ -25,6 +27,6 @@ No mês seguinte, ingressei no curso de Ciência da Computação, e pude ter uma
 
 
 ## 🌐 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-fillipi)
 
 
