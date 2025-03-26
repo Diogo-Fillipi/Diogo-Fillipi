@@ -19,6 +19,8 @@ Embora eu seja apaixonado por tudo relacionado à tecnologia, eu acabei gostando
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 
 ## 📊 Minhas Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Diogo-Fillipi&show_icons=true&theme=radical)
