@@ -1,7 +1,7 @@
 # Seja bem-vindo ao meu perfil :) 
 
-Olá, o meu nome é Diogo, e a minha história com a tecnologia começou logo após eu terminar o ensino médio, participando de um evento da HashTag, onde construímos uma automação utilizando Python. A sensação de ver aquele script funcionando foi indescritível, e foi naquele momento que decidi aprender mais sobre programação e que essa era a carreira que gostaria de seguir.<br><br>
-No mês seguinte, ingressei no curso de Ciência da Computação, com isso pude ter uma visão mais ampla, não só de programação, mas de tecnologia como um todo. Então acabei me apaixonando por tecnologia num geral, e hoje nem consigo me imaginar em outra área que não seja a tech.
+Olá, o meu nome é Diogo, e a minha história com a tecnologia começou logo após eu terminar o ensino médio, participando de um evento da HashTag, onde construímos uma automação utilizando Python. A sensação de ver aquele script funcionando foi indescritível, sendo naquele o momento em que decidi aprender mais sobre programação e que essa era a carreira que gostaria de seguir.<br><br>
+No mês seguinte, ingressei no curso de Ciência da Computação, com isso pude ter uma visão mais ampla, não só de programação, mas de tecnologia como um todo. Por fim acabei me apaixonando por área num geral, e hoje nem consigo me imaginar em outro campo que não seja o tech.
 
 Embora eu seja apaixonado por tudo relacionado à tecnologia, eu acabei gostando muito do desenvolvimento Back-End, principalmente em Java, desde então venho me aprofundando no assunto.
 
